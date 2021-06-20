@@ -1,6 +1,6 @@
 - Hi, I’m @intentofoblivion
 - I’m interested in Astronomy, Trekking, Halo, Sports and Finance
-- I’m alway learning about myself
+- I’m always learning about myself
 
 <!---
 intentofoblivion/intentofoblivion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
